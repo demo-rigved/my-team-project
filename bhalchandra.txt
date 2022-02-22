@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 Pandemonium Didnt reign, it poured !
 Lucifer is the king of hell 
 
 
+=======
+This file is edited by kishor
+Pandemonium Didnt reign, it poured ! 
+>>>>>>> master
